@@ -1,0 +1,26 @@
+[
+    {
+        "topic": "billing",
+        "content": "If a customer is charged twice, both transactions must first be verified. Duplicate charges should be investigated by the billing support team. Never promise a refund before verification."
+    },
+    {
+        "topic": "refund",
+        "content": "Refund requests must be verified against the original transaction. Approved refunds generally take 5-7 business days depending on the payment provider."
+    },
+    {
+        "topic": "subscription",
+        "content": "Customers can manage their subscriptions from Account Settings. Subscription renewal dates and pricing information are available in the billing dashboard."
+    },
+    {
+        "topic": "bug",
+        "content": "For technical issues, collect the affected feature, error message, reproduction steps and device information. Create a support ticket for investigation."
+    },
+    {
+        "topic": "feature",
+        "content": "Feature requests should include the requested functionality and the customer's use case. The product team reviews suggestions."
+    },
+    {
+        "topic": "question",
+        "content": "General customer questions should be answered using verified product documentation. If information is unavailable, escalate to the support team."
+    }
+]
